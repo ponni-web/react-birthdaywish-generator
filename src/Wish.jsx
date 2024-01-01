@@ -11,9 +11,9 @@ const Wish = ({user1}) => {
  {user1.map((data)=>(
                 
  <div>
-  <p>Level up day wishes <span>{data.name2}</span> </p>
+  <p>We wish you the happy 2k24<span>{data.name2}</span> </p>
   <p>Have a great year ahead </p>
-  <p>May all your dreams comes true </p>
+  <p>May all your dream comes true </p>
   <p>Lots of <span>greetings </span>from us to you</p>
   <p>Keep <span>smiling</span> ever and ever</p>
 </div>
